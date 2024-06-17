@@ -1,6 +1,6 @@
 from tkinter import *
 root=Tk()
-root.title("Simple Calculator")
+root.title("Advance Calculator")
 # creating main frame
 mainframe=Frame(root,width=45,bd=10,relief=RIDGE,bg="blue")
 mainframe.pack()
